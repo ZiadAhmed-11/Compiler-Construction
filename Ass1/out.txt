@@ -1,0 +1,7 @@
+Word :Free, Characters :4
+Word :palastine, Characters :9
+Word :and, Characters :3
+Word :its, Characters :3
+Word :capital, Characters :7
+Word :is, Characters :2
+Word :juresalem, Characters :9
